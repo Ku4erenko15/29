@@ -1,0 +1,7 @@
+C:\Users\Kab-35-16\source\repos\ak\bin\Debug\ak.exe.config
+C:\Users\Kab-35-16\source\repos\ak\bin\Debug\ak.exe
+C:\Users\Kab-35-16\source\repos\ak\bin\Debug\ak.pdb
+C:\Users\Kab-35-16\source\repos\ak\obj\Debug\ak.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\source\repos\ak\obj\Debug\ak.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\ak\obj\Debug\ak.exe
+C:\Users\Kab-35-16\source\repos\ak\obj\Debug\ak.pdb
